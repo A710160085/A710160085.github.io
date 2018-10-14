@@ -27,7 +27,7 @@
 1. JUDUL JURNAL :<br>
    1) Innovation and Technology in Engineering Education System Based On Android<br>
    2) Teching Interface of Finger Braille Teaching System Using Smartphone<br>
-   3) The Impact and Benefits of Techinical Helps For Disabled People<br> 
+   3) The Impact and Benefits of Techinical Helps For Disabled People<br><br>
  2. ALASAN MEMILIH JURNAL TERSEBUT :<br>
     - Memilih jural 
 </div>
