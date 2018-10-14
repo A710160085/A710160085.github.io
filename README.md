@@ -31,16 +31,16 @@
  2. ALASAN MEMILIH JURNAL TERSEBUT :<br>
     - Memilih jurnal dengan judul Innovation and Technology in Engineering Education System Based On Android <br>
       karena terdapat pembelajaran inovasi unutk meberbaharui pembelajaran yang ada sehingga kita tidak akan<br>
-      tertinggal didunia pendidikan dan IT ini.
+      tertinggal didunia pendidikan dan IT ini.<br>
     - Memilih jurnal dengan judul Teching Interface of Finger Braille Teaching System Using Smartphone,<br>
       karena saya membutuhkan pembelajaran yang berbeda dengan sebelum-sebelumnya, apalagi saat ini<br>
-      semua guru wajib untuk mengerti keadaan siswa yang disabilitas.
+      semua guru wajib untuk mengerti keadaan siswa yang disabilitas.<br>
     - Memilih jurnal dengan judul The Impact and Benefits of Techinical Helps For Disabled People, <br>
       karena hampir sama dengan yang jurnal kedua saya ingin mempelajarai sesuatu yang sebelumnya belum pernah<br>
       ada di pembelajaran biasa, pada jurnal ini kita juga dapat mengerti lebih dampak dan manfaat penggunaan <br>
       gedget untuk disabilitas, sehingga kita akan lebih berhati-hati jika menggunakan teknologi ini.<br><br>
   3. TERJEMAHAN BAHASA :<br>
-     - Jurnal 1 : Inovasi dan teknologi dalam sistem pendidikan teknik berbasis Android <br>
+    - <b>Jurnal 1</b> : Inovasi dan teknologi dalam sistem pendidikan teknik berbasis Android <br>
        Perguruan tinggi dan universitas mengalami pertumbuhan yang signifikan dalam pendaftaran siswa, <br>
        itulah sebabnya mengapa sangat penting untuk menginovasi tren baru, teknologi yang membentuk siswa,<br>
        fakultas menjadi segar, energik sepanjang hari. Inovasi adalah unsur penting dalam pengembangan.<br>
@@ -52,7 +52,7 @@
        metodologi yang tampaknya jernih tetapi terbukti sangat efektif dalam menjaga siswa bertunangan.<br>
        Kami kemudian akan membahas bagaimana metode ini dapat dimodifikasi lebih lanjut untuk membuatnya paling efisien<br>
        dan mengusulkan metodologi pengajaran untuk pengembangan dan algoritma android.<br>
-    - Jurnal 2 : Antarmuka Pengajaran Sistem Pengajaran Braille Jari Menggunakan Smartphone <br>
+    - <b>Jurnal 2</b> : Antarmuka Pengajaran Sistem Pengajaran Braille Jari Menggunakan Smartphone <br>
       Finger Braille adalah media komunikasi taktis yang efisien untuk orang tunanetra-rungu yang mengalami kebutaan<br>
       lebih dulu. Orang-orang yang buta tunanetra hanya dapat berkomunikasi melalui juru bahasa, karena orang-orang <br>
       yang tidak memiliki disabilitas umum tidak terampil dalam Finger Braille. Sistem pengajaran Braille Finger<br>
@@ -64,7 +64,7 @@
       kolom tunggal lebih mudah dilihat, antarmuka pengajaran kolom ganda mempromosikan kinerja yang lebih baik <br>
      (waktu respon, kecepatan dotting dan akurasi dotting). Oleh karena itu, antarmuka pengajaran kolom ganda harus<br>
      diadopsi sebagai antarmuka pengajaran menggunakan smartphone.
-   - Jurnal 3 : Dampak dan manfaat dari bantuan teknis untuk orang cacat <br>
+    - <b>Jurnal 3</b> : Dampak dan manfaat dari bantuan teknis untuk orang cacat <br>
      Makalah ini menyajikan analisis keuntungan yang Anda miliki dengan penggunaan teknologi seperti dukungan untuk <br>
     penyandang cacat, terutama dalam pendidikan. Hasilnya diimplementasikan pada repositori proyek perangkat lunak<br>
     yang tersedia di halaman web Grupo de Tecnologías de Inclusión dari Universidad Politécncia Salesiana,<br>
