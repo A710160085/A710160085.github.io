@@ -52,6 +52,26 @@
        metodologi yang tampaknya jernih tetapi terbukti sangat efektif dalam menjaga siswa bertunangan.<br>
        Kami kemudian akan membahas bagaimana metode ini dapat dimodifikasi lebih lanjut untuk membuatnya paling efisien<br>
        dan mengusulkan metodologi pengajaran untuk pengembangan dan algoritma android.<br>
+    - Jurnal 2 : Antarmuka Pengajaran Sistem Pengajaran Braille Jari Menggunakan Smartphone <br>
+      Finger Braille adalah media komunikasi taktis yang efisien untuk orang tunanetra-rungu yang mengalami kebutaan<br>
+      lebih dulu. Orang-orang yang buta tunanetra hanya dapat berkomunikasi melalui juru bahasa, karena orang-orang <br>
+      yang tidak memiliki disabilitas umum tidak terampil dalam Finger Braille. Sistem pengajaran Braille Finger<br>
+      antara pengirim yang tidak cacat dan penerima tunanetra-rungu telah dikembangkan. Sistem pengajaran mengenali<br>
+      ucapan pengirim yang tidak cacat dan menampilkan pola titik Braille Jari yang terkait. Pengirim yang tidak cacat <br>
+      kemudian dapat menancapkan Finger Braille pada jari-jari penerima tunanetra-rungu dengan mengamati pola titik<br>
+      yang ditampilkan. Dalam makalah ini, kami mengadopsi smartphone Android 5 inci, dan mendesain satu kolom dan <br>
+      antarmuka pengajaran kolom ganda. Hasil dari eksperimen evaluasi menunjukkan bahwa antarmuka pengajaran<br>
+      kolom tunggal lebih mudah dilihat, antarmuka pengajaran kolom ganda mempromosikan kinerja yang lebih baik <br>
+     (waktu respon, kecepatan dotting dan akurasi dotting). Oleh karena itu, antarmuka pengajaran kolom ganda harus<br>
+     diadopsi sebagai antarmuka pengajaran menggunakan smartphone.
+   - Jurnal 3 : Dampak dan manfaat dari bantuan teknis untuk orang cacat <br>
+     Makalah ini menyajikan analisis keuntungan yang Anda miliki dengan penggunaan teknologi seperti dukungan untuk <br>
+    penyandang cacat, terutama dalam pendidikan. Hasilnya diimplementasikan pada repositori proyek perangkat lunak<br>
+    yang tersedia di halaman web Grupo de Tecnologías de Inclusión dari Universidad Politécncia Salesiana,<br>
+    Situs ini memenuhi standar untuk aksesibilitas web bagi para penyandang cacat dan pengguna umum dapat mengunduh,<br>
+    membuat kontribusi dan saran, membuat dukungan jaringan yang berusaha menciptakan solusi nyata untuk situasi kehidupan<br>
+    nyata. Ini juga melakukan implementasi teknologi aplikasi Android yang membantu anak-anak dengan cerebral palsy<br>
+    berkontribusi ke pusat IPCA sebagai alternatif untuk pengajaran dan pembelajaran.<br>
 </div>
 
 </body>
