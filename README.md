@@ -19,7 +19,7 @@
 </head>
 <body>
 
-<p>Scroll Up and Down this page to see the juornal.</p>
+<p><b>JURNAL TENTANG PENGAJARAN & ANDROID</b></p>
 
 <div class="parallax"></div>
 
