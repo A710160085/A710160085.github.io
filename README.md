@@ -4,7 +4,7 @@
 <style>
 .parallax {
     /* The image used */
-    background-image: url("interface.jpeg");
+    background-image: url("user.jpg");
 
     /* Set a specific height */
     min-height: 500px; 
@@ -25,9 +25,11 @@
 
 <div style="height:1000px;background-color:white;font-size:20px">
 1. JUDUL JURNAL :<br>
-   - Innovation and Technology in Engineering Education System Based On Android<br>
-   - Teching Interface of Finger Braille Teaching System Using Smartphone<br>
-   - The Impact and Benefits of Techinical Helps For Disabled People<br> 
+   1) Innovation and Technology in Engineering Education System Based On Android<br>
+   2) Teching Interface of Finger Braille Teaching System Using Smartphone<br>
+   3) The Impact and Benefits of Techinical Helps For Disabled People<br> 
+ 2. ALASAN MEMILIH JURNAL TERSEBUT :
+    - Memilih jural 
 </div>
 
 </body>
