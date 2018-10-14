@@ -63,7 +63,7 @@
       antarmuka pengajaran kolom ganda. Hasil dari eksperimen evaluasi menunjukkan bahwa antarmuka pengajaran<br>
       kolom tunggal lebih mudah dilihat, antarmuka pengajaran kolom ganda mempromosikan kinerja yang lebih baik <br>
      (waktu respon, kecepatan dotting dan akurasi dotting). Oleh karena itu, antarmuka pengajaran kolom ganda harus<br>
-     diadopsi sebagai antarmuka pengajaran menggunakan smartphone.
+     diadopsi sebagai antarmuka pengajaran menggunakan smartphone.<br>
     - <b>Jurnal 3</b> : Dampak dan manfaat dari bantuan teknis untuk orang cacat <br>
      Makalah ini menyajikan analisis keuntungan yang Anda miliki dengan penggunaan teknologi seperti dukungan untuk <br>
     penyandang cacat, terutama dalam pendidikan. Hasilnya diimplementasikan pada repositori proyek perangkat lunak<br>
