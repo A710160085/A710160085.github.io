@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .parallax {
     /* The image used */
-    background-image: url("img_parallax.jpg");
+    background-image: url("interface.jpeg");
 
     /* Set a specific height */
     min-height: 500px; 
@@ -20,14 +19,15 @@
 </head>
 <body>
 
-<p>Scroll Up and Down this page to see the parallax scrolling effect.</p>
+<p>Scroll Up and Down this page to see the juornal.</p>
 
 <div class="parallax"></div>
 
 <div style="height:1000px;background-color:white;font-size:36px">
-Scroll Up and Down this page to see the parallax scrolling effect.
-This div is just here to enable scrolling.
-Tip: Try to remove the background-attachment property to remove the scrolling effect.
+1. JUDUL JURNAL :
+   - Innovation and Technology in Engineering Education System Based On Android
+   - Teching Interface of Finger Braille Teaching System Using Smartphone
+   - The Impact and Benefits of Techinical Helps For Disabled People 
 </div>
 
 </body>
