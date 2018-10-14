@@ -23,7 +23,7 @@
 
 <div class="parallax"></div>
 
-<div style="height:1000px;background-color:blue;font-size:20px">
+<div style="height:1000px;background-color:white;font-size:20px">
 1. JUDUL JURNAL :<br>
    - Innovation and Technology in Engineering Education System Based On Android<br>
    - Teching Interface of Finger Braille Teaching System Using Smartphone<br>
