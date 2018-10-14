@@ -23,7 +23,7 @@
 
 <div class="parallax"></div>
 
-<div style="height:1000px;background-color:white;font-size:20px">
+<div style="height:1000px;background-color:white;font-size:15px">
 1. JUDUL JURNAL :<br>
    1) Innovation and Technology in Engineering Education System Based On Android<br>
    2) Teching Interface of Finger Braille Teaching System Using Smartphone<br>
@@ -39,7 +39,7 @@
       karena hampir sama dengan yang jurnal kedua saya ingin mempelajarai sesuatu yang sebelumnya belum pernah<br>
       ada di pembelajaran biasa, pada jurnal ini kita juga dapat mengerti lebih dampak dan manfaat penggunaan <br>
       gedget untuk disabilitas, sehingga kita akan lebih berhati-hati jika menggunakan teknologi ini.<br><br>
-  3. TERJEMAHAN BAHASA :
+  3. TERJEMAHAN BAHASA :<br>
      - Jurnal 1 : Inovasi dan teknologi dalam sistem pendidikan teknik berbasis Android <br>
        Perguruan tinggi dan universitas mengalami pertumbuhan yang signifikan dalam pendaftaran siswa, <br>
        itulah sebabnya mengapa sangat penting untuk menginovasi tren baru, teknologi yang membentuk siswa,<br>
